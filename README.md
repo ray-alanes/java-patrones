@@ -1,6 +1,5 @@
 # Patrones de diseño JAVA :
 
-
 Estos patrones se encuentran listados y detallados en el libro Design Patterns: Elements of Reusable Object-Oriented Software
 
 Los patrones han sido clasificados en tres grupos.
@@ -9,9 +8,8 @@ Los patrones han sido clasificados en tres grupos.
 * Patrones estructurales.
 * Patrones de comportamiento.
 
-
-
 ---
+
 
 listado de los patrones
 
