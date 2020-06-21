@@ -10,7 +10,6 @@ Los patrones han sido clasificados en tres grupos.
 
 ---
 
-
 listado de los patrones
 
 ### Patrones creacionales.
